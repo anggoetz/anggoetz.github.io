@@ -13,7 +13,7 @@ menu_settings:
       url: '/'
     - title: 'CV'
       url: '/cv/'
-    - title: 'About'
+    - title: 'Contact'
       url: '/about'
     - title: 'Contact'
       url: '/contact'
