@@ -9,7 +9,7 @@ featured_image: /images/demo/demo-landscape.jpg
 
 ## Features
 
-Index is packed with powerful features to showcase your work:
+<b> Index is packed with powerful features to showcase your work: </b>
 
 * Beautiful, minimal design
 * Fixed sidebar menu
