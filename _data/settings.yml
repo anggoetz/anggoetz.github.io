@@ -1,6 +1,6 @@
 basic_settings:
-  site_title: Index
-  site_tagline: A minimal, fixed sidebar grid portfolio Jekyll theme.
+  site_title: Angelica Goetzen
+  site_tagline: Researcher of technology and human behavior.
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -9,7 +9,7 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
+    - title: 'Hello!'
       url: '/'
     - title: 'Blog'
       url: '/blog/'
@@ -149,9 +149,9 @@ font_settings:
     letter_spacing: 0
     line_height: 1.6
   p:
-    small_size: 16
-    medium_size: 18
-    large_size: 20
+    small_size: 14
+    medium_size: 16
+    large_size: 18
     weight: 300
     letter_spacing: 0
     line_height: 1.6
