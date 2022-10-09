@@ -12,7 +12,7 @@ menu_settings:
     - title: 'Hello!'
       url: '/'
     - title: 'CV'
-      url: '/cv/'
+      url: '/cv'
     - title: 'Contact'
       url: '/about'
     - title: 'Contact'
