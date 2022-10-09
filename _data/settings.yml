@@ -14,8 +14,6 @@ menu_settings:
     - title: 'CV'
       url: '/cv'
     - title: 'Contact'
-      url: '/about'
-    - title: 'Contact'
       url: '/contact'
 
 grid_settings:
