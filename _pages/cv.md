@@ -1,7 +1,13 @@
 ---
-title:
-subtitle:
+layout: default
 ---
+
+<html>
+<section class="single">
+
+	<div class="wrap">
+  
+</html>
 
 <html>
   <body>
@@ -9,4 +15,8 @@ subtitle:
     </iframe>
   </body>
 </html>
+  
+  	</div>
+
+</section>
 
