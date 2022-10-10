@@ -19,6 +19,6 @@ layout: default
 </html>
 
 <html>
-<embed src="/docs/CV_AngelicaGoetzen_2022.pdf" type="application/pdf">
+<embed src="/docs/CV_AngelicaGoetzen_2022.pdf" type="application/pdf" width="100%" height="720px">
 </html>
 
