@@ -17,3 +17,8 @@ layout: default
 </section>
 
 </html>
+
+<html>
+<embed src="/docs/CV_AngelicaGoetzen_2022.pdf" type="application/pdf">
+</html>
+
