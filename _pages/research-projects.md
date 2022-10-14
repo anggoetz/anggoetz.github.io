@@ -18,4 +18,4 @@ Goetzen, A. & Redmiles, E. **A qualitative study exploring the digital labor of 
 
 Ali, M., Goetzen, A., Mislove, A., Redmiles, E., & Sapiezynski, P. **A  longitudinal study exploring the distribution of & user feelings towards potentially harmful ads on Facebook.**
 
-Wang, R., Ayalon, O., & Goetzen, A. **Measuring time spent on TikTok against user perceptions using user-donated data.**
+Wang, R., Ayalon, O., & Goetzen, A. **Measuring time spent on TikTok against self-report estimations using user-donated data.**
