@@ -10,12 +10,14 @@ Goetzen, A., Dooley, S., & Redmiles, E. (2022). **Ctrl-Shift: How Privacy Sentim
 
 #### Under Review
  
-Zannettou, S., Nemes-Nemeth, O., Ayalon, O., Goetzen, A., Gummadi, K., Redmiles, E., & Roesner, F. (2022). **A Data-Driven Analysis of User Behavior on TikTok using Data Donations.**
+Goetzen, A., Wang, R., Redmiles, E., Zannettou, S., & Ayalon, O. (2023). **Likes and Fragments: Examining Perceptions of Time Spent on TikTok.**
+
+Ali, M., Goetzen, A., Mislove, A., Redmiles, E., & Sapiezynski, P. (2023). **Problematic Advertising and its Disparate Exposure on Facebook.**
+
+Zannettou, S., Nemes-Nemeth, O., Ayalon, O., Goetzen, A., Gummadi, K., Redmiles, E., & Roesner, F. (2022). **Leveraging Rights of Data Subjects for Social Media Analysis: Studying TikTok via Data Donations.**
 
 #### In Progress
 
 Goetzen, A. & Redmiles, E. **A qualitative study exploring the digital labor of content creators.**
 
-Ali, M., Goetzen, A., Mislove, A., Redmiles, E., & Sapiezynski, P. **A  longitudinal study exploring the distribution of & user feelings towards potentially harmful ads on Facebook.**
-
-Wang, R., Ayalon, O., & Goetzen, A. **Measuring time spent on TikTok against self-report estimations using user-donated data.**
+Gröber, L., Goetzen, A., Krombholz, K. & Redmiles, E. **A qualitative study exploring safety & security practices, experiences and risks in US- and Pakistan-based content creators.**
