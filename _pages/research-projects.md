@@ -4,33 +4,33 @@ title: Research Projects
 
 #### Published
 
-**“I chose to fight, be brave, and to deal with it.” Threat Experiences and Security Practices of Pakistani Content Creators** (2024).
-Gröber, L., Arshad, W., Saeed, S., Goetzen, A., Redmiles, E., Mustafa, M., & Krombholz, K. 
-USENIX Security Symposium '24. 
-*To appear.*
+**“I chose to fight, be brave, and to deal with it.” Threat Experiences and Security Practices of Pakistani Content Creators** (2024).  
+Gröber, L., Arshad, W., Saeed, S., Goetzen, A., Redmiles, E., Mustafa, M., & Krombholz, K.   
+USENIX Security Symposium '24.  
+*To appear.*  
 
-**Problematic Advertising and its Disparate Exposure on Facebook** (2023). 
-Ali, M., Goetzen, A., Mislove, A., Redmiles, E., & Sapiezynski, P.
-USENIX Security Symposium '23. 
-*[View here](https://www.usenix.org/system/files/usenixsecurity23-ali.pdf)* 
+**Problematic Advertising and its Disparate Exposure on Facebook** (2023).  
+Ali, M., Goetzen, A., Mislove, A., Redmiles, E., & Sapiezynski, P.  
+USENIX Security Symposium '23.   
+*[View here](https://www.usenix.org/system/files/usenixsecurity23-ali.pdf)*  
 
-**All things unequal: Measuring disparity of potentially harmful ads on Facebook** (2022). 
-Ali, M., Goetzen, A., Mislove, A., Redmiles, E., & Sapiezynski, P. 
-6th Workshop on Technology and Consumer Protection. 
-*[View here](https://www.ieee-security.org/TC/SPW2022/ConPro/papers/ali-conpro22.pdf)*
+**All things unequal: Measuring disparity of potentially harmful ads on Facebook** (2022).  
+Ali, M., Goetzen, A., Mislove, A., Redmiles, E., & Sapiezynski, P.  
+6th Workshop on Technology and Consumer Protection.  
+*[View here](https://www.ieee-security.org/TC/SPW2022/ConPro/papers/ali-conpro22.pdf)* 
 
-**Ctrl-Shift: How Privacy Sentiment Changed from 2019 to 2021.** (2022).
-Goetzen, A., Dooley, S., & Redmiles, E. 
-Proceedings on Privacy Enhancing Technologies, Volume 2022 (4). 
+**Ctrl-Shift: How Privacy Sentiment Changed from 2019 to 2021.** (2022).  
+Goetzen, A., Dooley, S., & Redmiles, E.  
+Proceedings on Privacy Enhancing Technologies, Volume 2022 (4).  
 *[View here](https://petsymposium.org/popets/2022/popets-2022-0118.php)*
 
 #### Under Review
  
-**Mapping the Labor of Compensated Digital Content Creation**
+**Mapping the Labor of Compensated Digital Content Creation**  
 Goetzen, A., Gröber, L., Krombholz, K., & Redmiles, E.
 
-**Likes and Fragments: Examining Perceptions of Time Spent on TikTok**
+**Likes and Fragments: Examining Perceptions of Time Spent on TikTok**  
 Goetzen, A., Wang, R., Redmiles, E., Zannettou, S., & Ayalon, O.
 
-**Leveraging Rights of Data Subjects for Social Media Analysis: Studying TikTok via Data Donations**
+**Leveraging Rights of Data Subjects for Social Media Analysis: Studying TikTok via Data Donations**  
 Zannettou, S., Nemes-Nemeth, O., Ayalon, O., Goetzen, A., Gummadi, K., Redmiles, E., & Roesner, F.
