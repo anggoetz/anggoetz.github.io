@@ -7,7 +7,12 @@ title: Research Projects
 **“I chose to fight, be brave, and to deal with it.” Threat Experiences and Security Practices of Pakistani Content Creators** (2024).  
 Gröber, L., Arshad, W., Saeed, S., Goetzen, A., Redmiles, E., Mustafa, M., & Krombholz, K.   
 USENIX Security Symposium '24.  
-*To appear.*  
+*[View here](https://www.usenix.org/system/files/sec24summer-prepub-356-grober.pdf)*  
+
+**Analyzing User Engagement with TikTok's Short Format Video Recommendations using Data Donations** (2024).  
+Zannettou, S., Nemes-Nemeth, O., Ayalon, O., Goetzen, A., Gummadi, K., Redmiles, E., & Roesner, F.   
+CHI Conference on Human Factors in Computing Systems ‘24.  
+*[View here](https://www.usenix.org/system/files/sec24summer-prepub-356-grober.pdf)*  
 
 **Problematic Advertising and its Disparate Exposure on Facebook** (2023).  
 Ali, M., Goetzen, A., Mislove, A., Redmiles, E., & Sapiezynski, P.  
@@ -31,6 +36,3 @@ Goetzen, A., Gröber, L., Krombholz, K., & Redmiles, E.
 
 **Likes and Fragments: Examining Perceptions of Time Spent on TikTok**  
 Goetzen, A., Wang, R., Redmiles, E., Zannettou, S., & Ayalon, O.
-
-**Leveraging Rights of Data Subjects for Social Media Analysis: Studying TikTok via Data Donations**  
-Zannettou, S., Nemes-Nemeth, O., Ayalon, O., Goetzen, A., Gummadi, K., Redmiles, E., & Roesner, F.
