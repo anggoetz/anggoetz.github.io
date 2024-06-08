@@ -12,7 +12,7 @@ USENIX Security Symposium '24.
 **Analyzing User Engagement with TikTok's Short Format Video Recommendations using Data Donations** (2024).  
 Zannettou, S., Nemes-Nemeth, O., Ayalon, O., Goetzen, A., Gummadi, K., Redmiles, E., & Roesner, F.   
 CHI Conference on Human Factors in Computing Systems ‘24.  
-*[View here](https://www.usenix.org/system/files/sec24summer-prepub-356-grober.pdf)*  
+*[View here](https://dl.acm.org/doi/full/10.1145/3613904.3642433)*  
 
 **Problematic Advertising and its Disparate Exposure on Facebook** (2023).  
 Ali, M., Goetzen, A., Mislove, A., Redmiles, E., & Sapiezynski, P.  
